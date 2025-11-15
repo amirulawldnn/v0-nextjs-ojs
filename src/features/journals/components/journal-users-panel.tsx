@@ -111,4 +111,3 @@ export function JournalUsersPanel({ journal }: Props) {
     </div>
   );
 }
-

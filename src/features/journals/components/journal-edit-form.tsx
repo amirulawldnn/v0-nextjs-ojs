@@ -1,4 +1,4 @@
- "use client";
+"use client";
 
 import { useRouter } from "next/navigation";
 import { FormEvent, useState, useTransition } from "react";
@@ -141,5 +141,3 @@ export function JournalEditForm({
     </form>
   );
 }
-
-

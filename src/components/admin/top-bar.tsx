@@ -151,4 +151,3 @@ export function TopBar() {
     </header>
   );
 }
-

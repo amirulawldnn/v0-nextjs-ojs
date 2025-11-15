@@ -109,4 +109,3 @@ export default function AdminLayout({ children }: Props) {
   );
 }
 export const dynamic = "force-dynamic";
-

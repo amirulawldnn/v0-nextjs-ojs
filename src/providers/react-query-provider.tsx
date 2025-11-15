@@ -26,4 +26,3 @@ export function ReactQueryProvider({ children }: Props) {
 
   return <QueryClientProvider client={client}>{children}</QueryClientProvider>;
 }
-

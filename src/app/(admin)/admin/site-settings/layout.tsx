@@ -60,4 +60,3 @@ export default function SiteSettingsLayout({ children }: Props) {
     </section>
   );
 }
-

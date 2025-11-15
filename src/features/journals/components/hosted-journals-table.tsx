@@ -297,4 +297,3 @@ export function HostedJournalsTable({ journals }: Props) {
     </div>
   );
 }
-

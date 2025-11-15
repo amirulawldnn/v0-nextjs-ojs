@@ -29,4 +29,3 @@ export function useSupabase() {
 
   return ctx;
 }
-

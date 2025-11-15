@@ -88,4 +88,3 @@ export const SITE_SETTING_TAB_LABELS: Record<SiteSettingTab, string> = {
   "navigation-menus": "Navigation Menus",
   "bulk-emails": "Bulk Emails",
 };
-

@@ -50,4 +50,3 @@ export const serverEnv =
         return result.data;
       })()
     : null;
-

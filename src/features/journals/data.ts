@@ -24,4 +24,3 @@ export const mockHostedJournals: HostedJournal[] = [
     isPublic: false,
   },
 ];
-

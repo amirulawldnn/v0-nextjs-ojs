@@ -5,4 +5,3 @@ export type HostedJournal = {
   isPublic: boolean;
   description?: string;
 };
-

@@ -65,4 +65,3 @@ export default function ClearScheduledTaskLogsPage() {
     </div>
   );
 }
-

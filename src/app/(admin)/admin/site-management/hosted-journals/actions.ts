@@ -1,4 +1,4 @@
- "use server";
+"use server";
 
 import { revalidatePath } from "next/cache";
 import { z } from "zod";
@@ -128,5 +128,3 @@ export async function deleteJournalAction(id: string): Promise<Result> {
   revalidateHostedJournals();
   return { success: true };
 }
-
-

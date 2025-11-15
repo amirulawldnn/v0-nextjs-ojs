@@ -36,4 +36,3 @@ export function Breadcrumbs({ crumbs }: Props) {
     </nav>
   );
 }
-
